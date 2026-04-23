@@ -5,7 +5,7 @@ title: CV
 nav: true
 nav_order: 3
 cv_pdf: /assets/pdf/cv.pdf
-cv_format: jsonresume
+cv_format: rendercv
 description: Curriculum vitae. The full PDF is linked at the top of this page.
 toc:
   sidebar: left

@@ -4,7 +4,7 @@ permalink: /teaching/
 title: teaching
 description: Courses taught at INSEAD across MBA, PhD, and Executive programmes.
 nav: true
-nav_order: 3
+nav_order: 2
 ---
 
 ### INSEAD MBA Electives

@@ -2,7 +2,6 @@ cv:
   name: Victoria Sevcenko
   label: Assistant Professor of Strategy, INSEAD
   email: victoria.sevcenko@insead.edu
-  phone: +65-9486-1219
   url: https://vicsevcenko.github.io
   summary: Assistant Professor of Strategy at INSEAD. Research focuses on strategy, human capital management, and gender — examining how firms acquire, develop, and deploy talent, and how these choices shape firm performance and worker outcomes.
 
@@ -13,6 +12,15 @@ cv:
     countryCode: SG
 
   sections:
+    Experience:
+      - company: INSEAD
+        position: Assistant Professor of Strategy
+        location: Singapore
+        start_date: 2018
+        end_date: Present
+        highlights:
+          - On parental leave 2021–2022 and 2024–2025.
+
     Education:
       - institution: London Business School
         location: London, UK
@@ -38,71 +46,149 @@ cv:
         studyType: BSc
         end_date: 2010
 
-    Academic Positions:
-      - company: INSEAD
-        position: Assistant Professor of Strategy
-        location: Singapore
-        start_date: 2018
-        end_date: Present
-        highlights:
-          - On parental leave 2021–2022 and 2024–2025.
+    Awards:
+      - title: SMS Research Methods Paper Prize (Winner)
+        date: "2025"
+        awarder: Strategic Management Society
+      - title: SMS Strategic Human Capital IG Best PhD Paper Prize (Winner)
+        date: "2025"
+        awarder: Strategic Management Society
+      - title: SMS Strategic Human Capital IG Best Paper Prize (Finalist)
+        date: "2025"
+        awarder: Strategic Management Society
+      - title: Wharton People Analytics White Paper Competition (Third Place)
+        date: "2025"
+        awarder: Wharton
+      - title: SMJ Best Reviewer Award
+        date: "2024"
+        awarder: Strategic Management Journal
+      - title: Organization Science Outstanding Reviewer Award
+        date: "2024"
+        awarder: Organization Science
+      - title: EGOS Best Paper Award Nomination
+        date: "2023"
+        awarder: EGOS
+      - title: SMJ Outstanding Reviewer Award
+        date: "2022"
+        awarder: Strategic Management Journal
+      - title: SMS Knowledge & Innovation Outstanding Reviewer
+        date: "2022"
+        awarder: Strategic Management Society
+      - title: Certificate of Recognition for MBA Teaching Excellence
+        date: "2021"
+        awarder: INSEAD
+        summary: Awarded 2020–2021.
+      - title: SMS Best Conference Paper Prize (Finalist)
+        date: "2021"
+        awarder: Strategic Management Society
+      - title: SMS Research Methods Paper Prize (Finalist)
+        date: "2021"
+        awarder: Strategic Management Society
+      - title: SMS Knowledge & Innovation Outstanding Reviewer
+        date: "2021"
+        awarder: Strategic Management Society
+      - title: William H. Newman Award for Best Dissertation Paper
+        date: "2019"
+        awarder: Academy of Management
+      - title: STR Wiley Blackwell Outstanding Dissertation Award (Finalist)
+        date: "2019"
+        awarder: Academy of Management (STR Division)
+      - title: STR Distinguished Paper Award
+        date: "2019"
+        awarder: Academy of Management
+      - title: SMS Minneapolis Best Paper Prize Nomination
+        date: "2019"
+        awarder: Strategic Management Society
+      - title: Outstanding Reviewer Award
+        date: "2014"
+        awarder: Academy of Management (BPS)
+      - title: PhD Programme Financial Award
+        date: "2012"
+        awarder: London Business School
+        summary: 2012–2017.
+      - title: Economic & Social Research Council Scholarship
+        date: "2012"
+        awarder: ESRC (UK)
+        summary: 2012–2017.
+      - title: Reinvention Centre Undergraduate Research Grant
+        date: "2010"
+        awarder: University of Warwick
 
-    Awards and Grants:
-      - year: 2025
-        items:
-          - SMS Annual Conference Research Methods Paper Prize (Winner)
-          - SMS Strategic Human Capital IG Best PhD Paper Prize (Winner)
-          - SMS Strategic Human Capital IG Best Paper Prize (Finalist)
-          - Wharton People Analytics Conference White Paper Competition (Third Place)
-      - year: 2024
-        items:
-          - Strategic Management Journal Best Reviewer Award
-          - Organization Science Outstanding Reviewer Award
-      - year: 2023
-        items:
-          - EGOS Best Paper Award Nomination
-      - year: 2022
-        items:
-          - Strategic Management Journal Outstanding Reviewer Award
-          - SMS Knowledge & Innovation Outstanding Reviewer
-      - year: 2021
-        items:
-          - Certificate of Recognition for MBA Teaching Excellence, INSEAD (2020–2021)
-          - SMS Best Conference Paper Prize (Finalist)
-          - SMS Research Methods Paper Prize (Finalist)
-          - SMS Knowledge & Innovation Outstanding Reviewer
-      - year: 2019
-        items:
-          - William H. Newman Award for Best Dissertation Paper (AOM)
-          - STR Wiley Blackwell Outstanding Dissertation Award (Finalist, AOM)
-          - STR Distinguished Paper Award (AOM)
-          - SMS Minneapolis Best Paper Prize (Nomination)
-      - year: 2014
-        items:
-          - Outstanding Reviewer Award, BPS (AOM)
-      - year: 2012
-        items:
-          - PhD Programme Financial Award, London Business School (2012–2017)
-          - Economic & Social Research Council Scholarship (2012–2017)
+    Editorial Service:
+      - bullet: "**Administrative Science Quarterly** — Editorial Board Member (2025–present)"
+      - bullet: "**Organization Science** — Editorial Board Member (2022–present)"
+      - bullet: "**Strategic Management Journal** — Editorial Board Member (2020–present)"
+      - bullet: "**Ad-hoc reviewer:** Management Science, European Management Review, Journal of Business Research"
+      - bullet: "**Conference reviewing:** SMS Annual Conference; Academy of Management (STR & OMT Divisions)"
 
-    Professional Service:
-      - title: Editorial Board Member
-        items:
-          - Administrative Science Quarterly (2025–present)
-          - Organization Science (2022–present)
-          - Strategic Management Journal (2020–present)
-      - title: Strategic Management Society
-        items:
-          - Program Chair, Knowledge and Innovation IG (2026)
-          - Associate Program Chair, Knowledge and Innovation IG (2025)
-          - Representative-at-Large, Knowledge and Innovation IG (2023–2025)
-          - Representative-at-Large, Strategic Human Capital IG (2022–2024)
-      - title: Academy of Management
-        items:
-          - William H. Newman Award Committee (2024)
-          - Research Committee Member, STR Division (2022–present)
-      - title: Teaching Cases
-        items:
-          - "Sevcenko, V. (2023). Hiring at OmniCorp. INSEAD Teaching Case."
-          - "Sevcenko, V. & Yang, A. (2021). Incentivizing Drivers at Grab: Social Embeddedness in the Gig Economy. INSEAD Teaching Case."
-          - "Sevcenko, V., Stolk, D. & Heely, L. (2021). En Classe: Aligning Incentives in the Public School System across Democratic Republic of Congo. INSEAD Teaching Case."
+    Service and Leadership:
+      - bullet: "**Strategic Management Society.** Program Chair, Knowledge and Innovation IG (2026); Associate Program Chair, Knowledge and Innovation IG (2025); Representative-at-Large, Knowledge and Innovation IG (2023–2025); Representative-at-Large, Strategic Human Capital IG (2022–2024); Junior Faculty Brownbag Organizer, Strategic Human Capital IG (2021–2023); Sunday Panel Organizer & Session Chair, Competitive Strategy IG (2021, 2022); 'Best Paper Award' Reviewer, Strategic Human Capital IG (2020–2023); PhD Student Mentor, Strategic Human Capital IG (2019–2023)."
+      - bullet: "**Academy of Management.** William H. Newman Award Committee (2024); Research Committee Member, STR Division (2022–present); Best Dissertation Award Reviewer, TIM Division (2022)."
+      - bullet: "**INSEAD.** Co-organizer of the Strategy & EFE Seminar Series (2023–present); Strategy Area RA Champion, with Hyunjin Kim (2023–present); Faculty Focus Group on Infrastructure Investments (2020–2021); Strategy Area Recruitment Committee (2018–2020)."
+      - bullet: "**Memberships.** Academy of Management; Strategic Management Society; Organization Design Community."
+
+    Workshops and Symposia Organized:
+      - bullet: "PDW on AI and Organization Design, Strategic Management Society (2025)"
+      - bullet: "Symposium on Communication in Organizations, Strategic Management Society (2024)"
+      - bullet: "PDW on New Data and Methods in Management Research, Academy of Management Annual Meeting (2021, 2022, 2023, 2024)"
+      - bullet: "PDW on Remote Work, Academy of Management Annual Meeting (2023)"
+      - bullet: "PDW on Geography & Innovation, Strategic Management Society (2023)"
+      - bullet: "SMS K&I IG Junior Faculty Paper Development Workshop (2023)"
+      - bullet: "PDW on Managing Remote Work, Academy of Management Annual Meeting (2021)"
+
+    Invited Talks and Conference Presentations:
+      - bullet: "Ghoshal Conference, London Business School (May 2026)"
+      - bullet: "Strategic Management Society Annual Conference (Oct 2025)"
+      - bullet: "Academy of Management Annual Conference (Aug 2025)"
+      - bullet: "London Business School Seminar Series (May 2025)"
+      - bullet: "SMS Annual Conference (Oct 2024)"
+      - bullet: "People and Organizations Conference (Sep 2024)"
+      - bullet: "INSEAD Singapore Campus Brownbag (2024)"
+      - bullet: "Strategic Management Society (Sep 2023)"
+      - bullet: "Academy of Management (Aug 2023)"
+      - bullet: "Strategic Human Capital IG Brownbag (March 2023)"
+      - bullet: "Copenhagen Business School (Sep 2022)"
+      - bullet: "LERA 74th Annual Meeting (Jun 2022)"
+      - bullet: "Strategy Research Forum (May 2022)"
+      - bullet: "Wharton People and Organizations Conference (Sep 2021)"
+      - bullet: "Strategic Management Society Annual Meeting (Sep 2021)"
+      - bullet: "Academy of Management Annual Meeting (Aug 2021)"
+      - bullet: "2nd AI & Strategy Consortium at ISB (Jan 2021)"
+      - bullet: "Strategic Management Society Virtual Meeting (Sep 2020)"
+      - bullet: "Austin Technology and Entrepreneurship Conference (Feb 2020)"
+      - bullet: "Strategic Management Society Annual Meeting (Sep 2019)"
+      - bullet: "Academy of Management Annual Meeting (Aug 2019)"
+      - bullet: "Tuck Strategy Summer Camp (Aug 2019)"
+      - bullet: "Academy of Management Annual Meeting (Aug 2018)"
+      - bullet: "Carlson School of Management, University of Minnesota (2018)"
+      - bullet: "HEC Paris, Strategy and Business Policy (2018)"
+      - bullet: "IESE, Strategic Management Department (2018)"
+      - bullet: "Frankfurt School of Finance & Management (2018)"
+      - bullet: "INSEAD, Strategy Department (2018)"
+      - bullet: "SMS Special Conference, Milan (2017)"
+      - bullet: "Trans-Atlantic Doctoral Conference, London Business School (2017)"
+      - bullet: "Academy of Management Annual Meeting (2015–2017)"
+      - bullet: "Vienna Conference on Strategy, Organization & Innovation (2015)"
+      - bullet: "CCC Doctoral Consortium, New York University (2015)"
+      - bullet: "Trans-Atlantic Doctoral Conference, London Business School (2014)"
+      - bullet: "Academy of Management Annual Meeting (2014)"
+
+    Invited Workshops:
+      - bullet: "Faculty Mentor, STR Dissertation Consortium, Academy of Management Annual Meeting (2025)"
+      - bullet: "Panelist, OMT PDW Paper Development Workshop, ESSEC (2023)"
+      - bullet: "Participant, TIM Doctoral Consortium, Academy of Management Annual Meeting (2018)"
+      - bullet: "Participant, BPS Doctoral Consortium, Academy of Management Annual Meeting (2015)"
+      - bullet: "Participant, Emerging Scholars Workshop, Wharton (2014)"
+
+    Teaching Cases:
+      - bullet: "Sevcenko, V. (2023). *Hiring at OmniCorp.* INSEAD Teaching Case."
+      - bullet: "Sevcenko, V. & Yang, A. (2021). *Incentivizing Drivers at Grab: Social Embeddedness in the Gig Economy.* INSEAD Teaching Case."
+      - bullet: "Sevcenko, V., Stolk, D. & Heely, L. (2021). *En Classe: Aligning Incentives in the Public School System across Democratic Republic of Congo.* INSEAD Teaching Case."
+
+    PhD Student Advising:
+      - bullet: "**Devanshee Shukla** (Strategy) — Dissertation Co-Chair with Jasjit Singh. Expected graduation June 2027."
+      - bullet: "**Tiancheng Wang** (Strategy) — Dissertation Committee Member. Expected graduation June 2027."
+      - bullet: "**Sukti Ghosh** (Strategy) — Dissertation Co-Chair with Jasjit Singh. Placed at Singapore Management University (2025)."
+      - bullet: "**Piyush Gulati** (Strategy) — Dissertation Committee Member. Placed at University College London (2025)."
+      - bullet: "**Hang-Jun Cho** (Entrepreneurship) — Dissertation Committee Member. Placed at Hong Kong Polytechnic University Business School (2023)."
+      - bullet: "**Xi Kang** (Strategy) — Dissertation Co-Chair with Phanish Puranam. Placed at Vanderbilt University (2022)."

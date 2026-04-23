@@ -1,20 +1,24 @@
 ---
 layout: page
-permalink: /publications/
-title: publications
-description: Published articles, papers under review, and working papers — in reverse chronological order.
+permalink: /research/
+title: research
+description: Published articles, papers under review, and working papers.
 nav: true
 nav_order: 1
 ---
-
-<!-- _pages/publications.md -->
-
-<!-- Bibsearch Feature -->
 
 {% include bib_search.liquid %}
 
 <div class="publications">
 
-{% bibliography %}
+## Published
+
+{% bibliography --query "@article" %}
+
+---
+
+## Under Review, Working Papers, and Work in Progress
+
+{% bibliography --query "@unpublished" %}
 
 </div>
